@@ -31,7 +31,7 @@ body{
     height: 450px;
     background: linear-gradient(0deg,transparent,#45f3ff);
     transform-origin: bottom right;
-    animation: animate 6s linear infinite;
+    animation: animate 7s linear infinite;
 }
 .box::after{
     content: '';
@@ -42,7 +42,7 @@ body{
     height: 450px;
     background: linear-gradient(0deg,transparent,#45f3ff);
     transform-origin: bottom right;
-    animation: animate 6s linear infinite;
+    animation: animate 7s linear infinite;
     animation-delay: -3s;
 }
 @keyframes animate
